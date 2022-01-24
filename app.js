@@ -13,7 +13,6 @@ function handleButtonClick(){
         console.dir(username);
         console.log("click!!!!");
     }
-
 }
 
 loginButton.addEventListener("click", handleButtonClick)
